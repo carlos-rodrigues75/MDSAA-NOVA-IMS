@@ -6,6 +6,3 @@ series <- rf(300, 4, 300)
 plot(series, df(series, 4, 300))
 
 # Plot the plot above using ggplot
-
-metricas que vamos acompanhar ? report?
-cada time vai precisar do seu script?
